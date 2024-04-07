@@ -1,0 +1,9 @@
+C:\CSATTT\ReceiveFile\ReceiveFile\bin\Debug\ReceiveFile.exe.config
+C:\CSATTT\ReceiveFile\ReceiveFile\bin\Debug\ReceiveFile.exe
+C:\CSATTT\ReceiveFile\ReceiveFile\bin\Debug\ReceiveFile.pdb
+C:\CSATTT\ReceiveFile\ReceiveFile\obj\Debug\ReceiveFile.csproj.AssemblyReference.cache
+C:\CSATTT\ReceiveFile\ReceiveFile\obj\Debug\ReceiveFile.Properties.Resources.resources
+C:\CSATTT\ReceiveFile\ReceiveFile\obj\Debug\ReceiveFile.csproj.GenerateResource.cache
+C:\CSATTT\ReceiveFile\ReceiveFile\obj\Debug\ReceiveFile.csproj.CoreCompileInputs.cache
+C:\CSATTT\ReceiveFile\ReceiveFile\obj\Debug\ReceiveFile.exe
+C:\CSATTT\ReceiveFile\ReceiveFile\obj\Debug\ReceiveFile.pdb

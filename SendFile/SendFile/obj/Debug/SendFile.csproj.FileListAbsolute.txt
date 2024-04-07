@@ -1,0 +1,9 @@
+C:\CSATTT\SendFile\SendFile\bin\Debug\SendFile.exe.config
+C:\CSATTT\SendFile\SendFile\bin\Debug\SendFile.exe
+C:\CSATTT\SendFile\SendFile\bin\Debug\SendFile.pdb
+C:\CSATTT\SendFile\SendFile\obj\Debug\SendFile.csproj.AssemblyReference.cache
+C:\CSATTT\SendFile\SendFile\obj\Debug\SendFile.Properties.Resources.resources
+C:\CSATTT\SendFile\SendFile\obj\Debug\SendFile.csproj.GenerateResource.cache
+C:\CSATTT\SendFile\SendFile\obj\Debug\SendFile.csproj.CoreCompileInputs.cache
+C:\CSATTT\SendFile\SendFile\obj\Debug\SendFile.exe
+C:\CSATTT\SendFile\SendFile\obj\Debug\SendFile.pdb
